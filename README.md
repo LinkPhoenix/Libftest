@@ -1,3 +1,9 @@
+# WARNING
+
+This project is a fork from https://github.com/jtoty/Libftest by @jtoty
+
+This project work if your `norminette.rb` is located in `~/.norminette/norminette.rb`
+
 # Libftest
 <img align="right" src="./srcs/img_readme.png" width="50%"/>
 This repository contains script to test your libft project.
